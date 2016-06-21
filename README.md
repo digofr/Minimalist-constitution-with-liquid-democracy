@@ -3,7 +3,7 @@ A new constitution for Brazil or any country aspiring and prepared for a leap in
 
 ---
 
-##New constitution for Brazil (markdown draft)
+##New constitution for Brazil (English markdown draft)
 ###Main clauses
 1.	The Brazilian territory<sup>1)</sup> and its natural resources are ultimately a piece of planet Earth and an asset of all human beings of the present and future generations. However, until the establishment of a global government, the duty of legitimizing private and public property<sup>2)</sup> in Brazil and registering the legal status of Brazilians will be of the Brazilian government.
 2.	Communities of Brazilians settled in territories of their proper ownership, able to sustain themselves independently and acting on a unanimous will, are allowed to register their autonomy and have their own government and constitution, provided that they respect the first article of the present constitution, to wit:
