@@ -1,14 +1,18 @@
 # Minimalist-constitution-with-liquid-democracy
-A new constitution for Brazil or any country aspiring and prepared for a leap in government.
+##### A new constitution for Brazil or any country aspiring and prepared for a leap in government.
+The main goal is to solve the problem that we elect candidates in a process where objectivity and competence are not in the forefront. By [Arrow's Impossibility Theorem](http://www.math.cornell.edu/twiki/pub/SMI/SocialChoice/JohnGArrow.pdf), all electorial systems with more than two alternatives and a finite number of voters are dictatorial. Would the solution be a bipartisan system, like in the U.S.? No.
+
+In the first place, politics need to focus on a smaller number of questions that are really relevant for everybody and be more federative. Diminishing the complexity, it becomes easier to tell right from wrong. Finally, to organize a more direct and less representative political system, we can use the concept of liquid democracy.
+
+**Note:** All other files in the master branch will contain exact copies (or translations) of the version below with names of contributors and possibly better formatting.
+
+##### Uma nova constituição para o Brasil ou qualquer país aspirando e preparado para um salto em governância.
+O objetivo principal é resolver o problema de que elegemos candidatos num processo em que objetividade e competência não ficam em primeiro plano. Pelo [Teorema da Impossibilidade de Arrow](http://www.math.cornell.edu/twiki/pub/SMI/SocialChoice/JohnGArrow.pdf), todos os sistemas eleitorais com mais de duas alternativas e um número finito de eleitores são uma ditadura. A solução seria um sistema bipartidário, como nos EUA? Não.
+
+Em primeiro lugar, a política precisa se focar num número menor de questões que sejam realmente relevantes a todos e ser mais federativa. Diminuindo a complexidade, fica mais óbvio o que é certo e o que é errado. Finalmente, para organizar um sistema político mais direto e menos representativo, podemos usar o conceito da democracia líquida.
 
 
-All other files in the master branch will contain exact copies (or translations) of the version below with names of contributors and possibly better formatting.
-
-
-
-Uma nova constituição para o Brasil ou qualquer país aspirando e preparado para um salto em governância.
-
-Todos os outros arquivos no tronco máster terão copias exatas (ou traduções) da versão abaixo com nomes dos contribuidores e numa formatação possivelmente melhor.
+**Nota:** Todos os outros arquivos no tronco máster terão copias exatas (ou traduções) da versão abaixo com nomes dos contribuidores e numa formatação possivelmente melhor.
 
 ---
 
